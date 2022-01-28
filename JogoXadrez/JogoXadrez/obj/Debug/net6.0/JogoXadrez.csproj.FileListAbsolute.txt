@@ -1,0 +1,14 @@
+D:\Programação C#\Xadrez\JogoXadrez\JogoXadrez\bin\Debug\net6.0\JogoXadrez.exe
+D:\Programação C#\Xadrez\JogoXadrez\JogoXadrez\bin\Debug\net6.0\JogoXadrez.deps.json
+D:\Programação C#\Xadrez\JogoXadrez\JogoXadrez\bin\Debug\net6.0\JogoXadrez.runtimeconfig.json
+D:\Programação C#\Xadrez\JogoXadrez\JogoXadrez\bin\Debug\net6.0\JogoXadrez.dll
+D:\Programação C#\Xadrez\JogoXadrez\JogoXadrez\bin\Debug\net6.0\ref\JogoXadrez.dll
+D:\Programação C#\Xadrez\JogoXadrez\JogoXadrez\bin\Debug\net6.0\JogoXadrez.pdb
+D:\Programação C#\Xadrez\JogoXadrez\JogoXadrez\obj\Debug\net6.0\JogoXadrez.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação C#\Xadrez\JogoXadrez\JogoXadrez\obj\Debug\net6.0\JogoXadrez.AssemblyInfoInputs.cache
+D:\Programação C#\Xadrez\JogoXadrez\JogoXadrez\obj\Debug\net6.0\JogoXadrez.AssemblyInfo.cs
+D:\Programação C#\Xadrez\JogoXadrez\JogoXadrez\obj\Debug\net6.0\JogoXadrez.csproj.CoreCompileInputs.cache
+D:\Programação C#\Xadrez\JogoXadrez\JogoXadrez\obj\Debug\net6.0\JogoXadrez.dll
+D:\Programação C#\Xadrez\JogoXadrez\JogoXadrez\obj\Debug\net6.0\ref\JogoXadrez.dll
+D:\Programação C#\Xadrez\JogoXadrez\JogoXadrez\obj\Debug\net6.0\JogoXadrez.pdb
+D:\Programação C#\Xadrez\JogoXadrez\JogoXadrez\obj\Debug\net6.0\JogoXadrez.genruntimeconfig.cache
