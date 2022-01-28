@@ -12,3 +12,4 @@ D:\Programação C#\Xadrez\JogoXadrez\JogoXadrez\obj\Debug\net6.0\JogoXadrez.dll
 D:\Programação C#\Xadrez\JogoXadrez\JogoXadrez\obj\Debug\net6.0\ref\JogoXadrez.dll
 D:\Programação C#\Xadrez\JogoXadrez\JogoXadrez\obj\Debug\net6.0\JogoXadrez.pdb
 D:\Programação C#\Xadrez\JogoXadrez\JogoXadrez\obj\Debug\net6.0\JogoXadrez.genruntimeconfig.cache
+D:\Programação C#\Xadrez\JogoXadrez\JogoXadrez\obj\Debug\net6.0\JogoXadrez.csproj.AssemblyReference.cache

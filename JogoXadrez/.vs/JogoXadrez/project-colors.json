@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4f3a348d-a9e1-4536-a788-6c257b1b33c3": {
+      "ProjectGuid": "4f3a348d-a9e1-4536-a788-6c257b1b33c3",
+      "DisplayName": "JogoXadrez",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
